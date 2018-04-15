@@ -1,5 +1,9 @@
 ## Euro Truck Simulator 2 / American Truck Simulator Map
 
+### This project is no longer maintained here.
+[Here](https://github.com/dariowouters/ts-map) you can find the new project
+
+\
 This repository is middle-ware for software developers to integrate ETS2/ATS maps into their widgets. It will also help with building a route advisor.
 
 At the current state this library is ALPHA, meaning that it can read the map but with some quirks and limitations. There is work required to make it easy to use, fast to load or adaptable to mods.
